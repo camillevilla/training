@@ -4,6 +4,7 @@
 
 ## Day One
 - [Introduction](day-one/README.md)
+- [What is an API?](day-one/what-is-an-api.md)
 - [IIIF Introduction](day-one/iiif-introduction.md)
 - [Image API](day-one/image-api.md)
   - [Basic Image API Examples](day-one/image-api-examples.md)
