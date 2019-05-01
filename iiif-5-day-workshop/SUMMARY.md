@@ -21,6 +21,7 @@
   - [Building a Simple Gallery Viewer From Scratch](day-two/1-building-a-gallery-viewer.md)
   - [Adding Open Seadragon](day-two/2-building-a-gallery-viewer-with-opensea-dragon.md)
   - [Adding Leaflet](day-two/3-building-a-gallery-viewer-with-leaflet.md)
+  - [Review and Discussion](day-two/review-gallery-viewer.md)
 - [Presentation API Deep Dive](day-two/4-presentation-api-introduction.md)
   - [Anatomy of a Basic Manifest](day-two/5-anatomy-of-a-basic-manifest.md)
   - [Building a Group Manifest](day-two/6-activity-group-manifest.md)
